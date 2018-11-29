@@ -31,7 +31,7 @@ describe('#comprehensiveJSCoverage', function() {
 
     it('should convert 6 digits', function() {
         var result = comprehensiveJSCoverage(123456);
-        expect(result).to.equal('123,45a6');
+        expect(result).to.equal('123,456');
     });
 
     it('should convert 7 digits', function() {

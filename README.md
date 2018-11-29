@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/zeezia/comprehensive-js-coverage.svg?branch=master)](https://travis-ci.org/zeezia/comprehensive-js-coverage) 
+[![Build Status](https://travis-ci.org/zeezia/comprehensive-js-coverage.svg?branch=master)](https://travis-ci.org/zeezia/comprehensive-js-coverage) [![Coverage Status](https://coveralls.io/repos/github/zeezia/comprehensive-js-coverage/badge.svg?branch=master)](https://coveralls.io/github/zeezia/comprehensive-js-coverage?branch=master)
 
 Comprehensive JS Coverage
 =========
