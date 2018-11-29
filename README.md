@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/zeezia/comprehensive-js-coverage.svg?branch=master)](https://travis-ci.org/zeezia/comprehensive-js-coverage) 
+
 Comprehensive JS Coverage
 =========
 
