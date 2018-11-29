@@ -1,0 +1,29 @@
+{
+  "name": "comprehensive-js-coverage",
+  "version": "0.1.0",
+  "description": "A library to provide comprehensive unit test coverage of your code considering opened PRs & ownerships to avoid double efforts, hence increasing productivity.",
+  "main": "index.js",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com-zeezia:zeezia/comprehensive-js-coverage.git"
+  },
+  "keywords": [
+    "Unit",
+    "Test",
+    "Coverage",
+    "JS",
+    "Coverage"
+  ],
+  "author": "Rehan Abbasi <zeeshan.zia@aurea.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
