@@ -5,7 +5,7 @@ A library to provide comprehensive unit test coverage of your code considering o
 
 ## Installation
 
-  `npm install Comprehensive JS Coverage`
+  `npm install comprehensive-js-coverage`
 
 ## Usage
 
