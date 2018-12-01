@@ -1,6 +1,6 @@
 {
   "name": "comprehensive-js-coverage",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A library to provide comprehensive unit test coverage of your code considering opened PRs & ownerships to avoid double efforts, hence increasing productivity.",
   "main": "src/index.js",
   "engines": {
