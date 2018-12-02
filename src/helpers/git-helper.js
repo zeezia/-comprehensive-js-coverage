@@ -7,8 +7,12 @@ const https = require('https');
 const fs = require('fs');
 const rimraf = require('rimraf');
 
-var localCopyBasePath = '../local_copy/';
-var comprehensiveCoverageBasePath = '../comprehensive_coverage/';
+const appRoot = __dirname.replace('node_modules/comprehensive-js-coverage/src/helpers', '');
+const moduleRootPath = __dirname.replace('src/helpers', '');
+
+var localCopyBasePath = moduleRootPath + 'local_copy/';
+var comprehensiveCoverageBasePath = appRoot + 'comprehensive_coverage/';
+
 var repository, repository_owner, base_branch = '';
 var dirsToTraverse = [];
 
